@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+<link href="estilo.css" rel="stylesheet" type="text/css">
 <title>Inicio</title>
 </head>
 <body>
