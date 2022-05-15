@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <title>Inicio</title>
-  <link rel="stylesheet" src="style.css">
+  <link rel="stylesheet" src="styles.css">
 </head>
 <body>
 <h1>Esta es nuestra pagina web de venta de productos informaticos</h1>
