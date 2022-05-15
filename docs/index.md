@@ -5,7 +5,7 @@
   <link rel="stylesheet" src="styles.css">
 </head>
 <body>
-<h1>Esta es nuestra pagina web de venta de productos informaticos</h1>
+<h1>Esta rmaticos</h1>
 <a href="contacto.html">Contactos</a>
 </body>
 </html>
